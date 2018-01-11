@@ -1,0 +1,25 @@
+﻿<Window x:Class="Zegar_Binarny.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Zegar_Binarny"
+        mc:Ignorable="d"
+        Title="Zegar Binerny by Paweł Czernecki" Height="450" Width="700" ResizeMode="CanMinimize" Background="#FFECF0F1">
+    <Grid>
+        <Image x:Name="hour1_1" Margin="100,255,458,25" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="hour1_2" Margin="100,180,458,100" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="hour2_1" Margin="200,255,358,25" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="hour2_2" Margin="200,180,358,100" Source="zero.png" Width="70" Height="70" />
+        <Image x:Name="hour2_3" Margin="200,105,358,175" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="hour2_4" Margin="200,30,358,250" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="minute1_1" Margin="356,255,214,25" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="minute1_2" Margin="356,180,214,100" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="minute1_3" Margin="356,105,214,175" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="minute2_1" Margin="456,255,109,25" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="minute2_2" Margin="456,180,109,100" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="minute2_3" Margin="456,105,109,175" Source="zero.png" Width="70" Height="70"/>
+        <Image x:Name="minute2_4" Margin="456,30,109,250" Source="zero.png" Width="70" Height="70"/>
+
+    </Grid>
+</Window>

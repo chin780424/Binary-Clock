@@ -1,0 +1,30 @@
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\bin\Debug\Zegar Binarny.exe.config
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\bin\Debug\Zegar Binarny.exe
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\bin\Debug\Zegar Binarny.pdb
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.csprojResolveAssemblyReference.cache
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\MainWindow.g.cs
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\App.g.cs
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny_MarkupCompile.cache
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny_MarkupCompile.lref
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\MainWindow.baml
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.g.resources
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar_Binarny.Properties.Resources.resources
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.csproj.GenerateResource.Cache
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.csproj.CoreCompileInputs.cache
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.exe
+K:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.pdb
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.csprojResolveAssemblyReference.cache
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\MainWindow.g.cs
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\App.g.cs
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny_MarkupCompile.cache
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny_MarkupCompile.lref
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.exe
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.pdb
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\bin\Debug\Zegar Binarny.exe.config
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\bin\Debug\Zegar Binarny.exe
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\bin\Debug\Zegar Binarny.pdb
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\MainWindow.baml
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.g.resources
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar_Binarny.Properties.Resources.resources
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.csproj.GenerateResource.Cache
+F:\Paweł Cz\,Projekty\WPF C#\Zegar Binarny\Zegar Binarny\obj\Debug\Zegar Binarny.csproj.CoreCompileInputs.cache
